@@ -1,0 +1,5 @@
+torch==1.7.1
+tensorboard==2.5.0
+numpy==1.19.5
+gym==0.18.3
+python==3.6.9
