@@ -36,7 +36,7 @@ Dependencies are saved at requirements.txt. Apart from that, this repo depends o
 
 - Hopper-v2
 
-  <img src="/image_file/hopper.png" alt="zom" style="zoom:10%;" />
+  <img src="/image_file/hopper.png" width="200" height="400" />
 
 - Swimmer-v2
 
