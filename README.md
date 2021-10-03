@@ -36,7 +36,7 @@ Dependencies are saved at requirements.txt. Apart from that, this repo depends o
 
 - Hopper-v2
 
-  <img src="/image_file/hopper.png" width="200" height="400" />
+  <img src="/image_file/hopper.png" width="400" height="400" />
 
 - Swimmer-v2
 
@@ -44,9 +44,9 @@ Dependencies are saved at requirements.txt. Apart from that, this repo depends o
 
 - InvertedPendulum-v0
 
-  <img src="/image_file/invertedpendulum.png" alt="z" style="zoom:50%;" />
+  <img src="/image_file/invertedpendulum.png" width="400" height="400" />
 
 - MountainCarContinuous-v0
 
-  <img src="/image_file/mountaincar.png" alt="z" style="zoom:75%;" />
+  <img src="/image_file/mountaincar.png" width="400" height="400" />
 
