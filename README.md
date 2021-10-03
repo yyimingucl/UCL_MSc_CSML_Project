@@ -29,6 +29,7 @@ This work investigates whether the Variational Inference (VI) framework in Reinf
 ## 3. Dependency 
 
 Dependencies are saved at requirements.txt. Apart from that, this repo depends on mujoco and mujoco-py. The installation guide line could be found at https://github.com/openai/mujoco-py and http://www.mujoco.org/
+Training Frameworks are referenced from https://github.com/reinforcement-learning-kr/pg_travel.
 
 
 
