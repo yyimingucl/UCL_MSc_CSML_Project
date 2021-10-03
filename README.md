@@ -48,5 +48,5 @@ Dependencies are saved at requirements.txt. Apart from that, this repo depends o
 
 - MountainCarContinuous-v0
 
-  <img src="/image_file/mountaincar.png" width="400" height="400" />
+  <img src="/image_file/mountaincar.png" width="400" height="300" />
 
