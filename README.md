@@ -36,17 +36,17 @@ Dependencies are saved at requirements.txt. Apart from that, this repo depends o
 
 - Hopper-v2
 
-  <img src="/image_file/hopper.png" alt="zom" style="zoom:33%;" />
+  <img src="/image_file/hopper.png" alt="zom" style="zoom:10%;" />
 
 - Swimmer-v2
 
-  ![](/home/yiming/Documents/Msc_project/image_file/swimmer.png)
+  ![](/image_file/swimmer.png)
 
 - InvertedPendulum-v0
 
-  <img src="/home/yiming/Documents/Msc_project/image_file/invertedpendulum.png" alt="z" style="zoom:67%;" />
+  <img src="/image_file/invertedpendulum.png" alt="z" style="zoom:50%;" />
 
 - MountainCarContinuous-v0
 
-  <img src="/home/yiming/Documents/Msc_project/image_file/mountaincar.png" alt="z" style="zoom:75%;" />
+  <img src="/image_file/mountaincar.png" alt="z" style="zoom:75%;" />
 
