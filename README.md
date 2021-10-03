@@ -28,12 +28,25 @@ This work investigates whether the Variational Inference (VI) framework in Reinf
 
 ## 3. Dependency 
 
-Dependencies are saved at requirements.txt. Apart from that, this repo depends on mujoco and mujoco-py. The installation guide line could be found at   
-
-[mujoco-py]: https://github.com/openai/mujoco-py	"mujoco-py"
-[mujoco]: http://www.mujoco.org/	"mujoco"
+Dependencies are saved at requirements.txt. Apart from that, this repo depends on mujoco and mujoco-py. The installation guide line could be found at https://github.com/openai/mujoco-py and http://www.mujoco.org/
 
 
 
 ## 4. Experiments Environments 
+
+- Hopper-v2
+
+  <img src="/home/yiming/Documents/Msc_project/image_file/hopper.png" alt="zom" style="zoom:33%;" />
+
+- Swimmer-v2
+
+  ![](/home/yiming/Documents/Msc_project/image_file/swimmer.png)
+
+- InvertedPendulum-v0
+
+  <img src="/home/yiming/Documents/Msc_project/image_file/invertedpendulum.png" alt="z" style="zoom:67%;" />
+
+- MountainCarContinuous-v0
+
+  <img src="/home/yiming/Documents/Msc_project/image_file/mountaincar.png" alt="z" style="zoom:75%;" />
 
